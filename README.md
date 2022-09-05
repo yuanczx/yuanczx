@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hello this is yuanczx 👋
+![GitHub followers](https://img.shields.io/github/followers/yuanczx?style=for-the-badge)
+![GitHub User's stars](https://img.shields.io/github/stars/yuanczx?color=green&style=for-the-badge)
+
+- 学生
+- C/Kotlin/Java/Python
+- 个人博客 [yuanczx.github.io](https://yuanczx.github.io)
+- 邮箱：yuanczx@foxmail.com
 
 <!--
 **yuanczx/yuanczx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
