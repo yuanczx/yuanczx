@@ -8,10 +8,10 @@
 ![GitHub followers](https://img.shields.io/github/followers/yuanczx?style=for-the-badge)
 ![GitHub User's stars](https://img.shields.io/github/stars/yuanczx?color=green&style=for-the-badge)
 
-- 🧑🏻‍🎓 学生 Student
-- 📑 个人博客 Blog [yuanczx.github.io](https://yuanczx.github.io)
-- 📪 邮箱 Mail：yuanczx@foxmail.com
-- 🏓 爱好：程序、音乐、躺
+- 🧑🏻‍🎓 A student
+- 📑 My personal Blog [yuanczx.github.io](https://yuanczx.github.io)
+- 📪 Mail：yuanczx@foxmail.com
+- 🏓 Programing Music 
 
 
 ## 📊 GitHub stats
